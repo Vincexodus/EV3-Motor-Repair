@@ -20,10 +20,10 @@
 ### Procedures
 1. Remove white cover using minus tip screwdriver starting from top
 2. Unscrew 2 inner screws and 7 outer screws using hexagon tip screwdriver **(length: 4 short, 4 medium, 1 long)**
-3. Extract motor together with chipset & white gear
+3. Extract motor together with chipset & detach white gear
 4. Remove black gear together with needle before unscrewing motor cover plate
 5. Transfer chipset to new motor using solder **(red wire -> + sign of motor)**
-6. Transfer pinion gear to new motor using pliers with butane jettorch **(skip if motor comes with pinion gear)**
+6. Transfer pinion gear to new motor using pliers with butane jet lighter **(skip if motor comes with pinion gear)**
 7. Apply gear lubricant before putting everything back in **(optional)** 
 
 ### Images for References
