@@ -28,23 +28,23 @@
 
 ### Images for References
 #### Step 1
-<img src="/images/img(6).jpg" width="400"><img src="/images/img(7).jpg" align="right" width="400"/>
+<img src="/images/img(6).png" width="400"><img src="/images/img(7).png" align="right" width="400"/>
 Step 1(1) - Insert minus tip into top of panel, assert downward force until both clamp is showned 
 Step 1(2) - Insert minus tip into inclined part of side panel, reach into inner part and assert outward force  
 
 #### Step 2
-<img src="/images/img(8).jpg" width="400"><img src="/images/img(9).jpg" align="right" width="400"/>
+<img src="/images/img(8).png" width="400"><img src="/images/img(9).png" align="right" width="400"/>
 
 #### Step 3
-<img src="/images/img(1).jpg" width="400">
+<img src="/images/img(1).png" width="400">
 
 #### Step 4
-<img src="/images/img(4).jpg" width="400"><img src="/images/img(3).jpg" align="right" width="400"/>
+<img src="/images/img(4).png" width="400"><img src="/images/img(3).png" align="right" width="400"/>
 
 #### Topdown view without white cover
-<img src="/images/img(2).jpg" width="400">
+<img src="/images/img(2).png" width="400">
 
 #### Backview of motor
-<img src="/images/img(5).jpg" width="400">
+<img src="/images/img(5).png" width="400">
 
 ### Dm me for repairs :joy:
