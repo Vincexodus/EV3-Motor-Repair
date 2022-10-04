@@ -1,7 +1,7 @@
 # Lego Mindstorm EV3 Repair Guide
 
 ## EV3 Large Motor (Motor Replacement)
-<img src="/images/motor.png" align="center" width="400">
+<img src="/images/motor.png" width="400">
 
 ### Motor For Replacement
 | Model | Description | Remarks |
