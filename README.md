@@ -29,8 +29,8 @@
 ### Images for References
 #### Step 1
 <img src="/images/img (6).png" width="400"><img src="/images/img (7).png" align="right" width="400"/>
-1. Insert minus tip into top of panel, assert downward force until both clamp is showned 
-2. Insert minus tip into inclined part of side panel, reach into inner part and assert outward force  
+1. Insert minus tip into top of panel, assert downward force until both inner clamp is shown
+2. Insert minus tip into inclined part of side panel, reach into inner part & assert outward force  
 
 #### Step 2
 <img src="/images/img (8).png" width="400"><img src="/images/img (9).png" align="right" width="400"/>
