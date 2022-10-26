@@ -26,7 +26,7 @@
 6. Transfer pinion gear to new motor using pliers with butane jet lighter **(skip if motor comes with pinion gear)**
 7. Apply gear lubricant before putting everything back in **(optional)** 
 
-### Images for References
+### Images for References (Large Motor)
 #### Step 1
 <img src="/images/img (6).png" width="400"><img src="/images/img (7).png" align="right" width="400"/>
 1. Insert minus tip into top of panel, assert downward force until both inner clamp is shown
@@ -46,6 +46,30 @@
 
 #### Backview of motor
 <img src="/images/img (5).png" width="400">
+
+---
+## EV3 Medium Motor (Motor Replacement)
+### Procedures
+1. Insert minus tip screwdriver into one side of body by dislocating both square brackets before inserting to other side
+2. Extract chipset attached with motor & remove solder on motor attached chipset
+3. Insert upward force to separate chipset from motor attachment
+4. Insert upward force to motor from attachment until back of motor is shown
+5. Insert downward force to remove motor from attachment
+6. Transfer pinion gear to new motor using pliers with butane jet lighter **(skip if motor comes with pinion gear)**
+7. Apply gear lubricant before putting everything back in **(optional)** 
+
+### Images for References (Medium Motor)
+#### Step 1
+<img src="/images/img (10).png" width="400">
+
+#### Step 2
+<img src="/images/img (11).png" width="400">
+
+#### Step 3
+<img src="/images/img (12).png" width="400">
+
+#### Step 5
+<img src="/images/img (13).png" width="400">
 
 ### Disclaimer
 Content above are non-official & all from my DIY experiences. 
