@@ -5,7 +5,7 @@
 
 ### Motor For Replacement
 | Model | RPM | Pinion Gear | Remarks |
-| ----------- | ----------- | 
+| ----------- | ----------- | ----------- | ----------- | 
 | [Compatible](https://item.taobao.com/item.htm?spm=a230r.1.14.43.5ec24ea25UNsbx&id=671232522423&ns=1&abbucket=13#detail) | Equivalent | Yes | As good as original | 
 | [RF-500TB-18280](https://item.taobao.com/item.htm?spm=a230r.1.14.16.306bf39cHLAevO&id=535392986859&ns=1&abbucket=13#detail) | Similar | No | Cheaper/Louder |
 
