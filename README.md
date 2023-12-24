@@ -9,28 +9,28 @@
 | [Compatible-model](https://item.taobao.com/item.htm?spm=a230r.1.14.43.5ec24ea25UNsbx&id=671232522423&ns=1&abbucket=13#detail) | Same RPM | Come with pinion gear |
 | [RF-500TB-18280](https://item.taobao.com/item.htm?spm=a230r.1.14.16.306bf39cHLAevO&id=535392986859&ns=1&abbucket=13#detail) | Similar RPM, Cheaper| No pinion gear |
 
-### Tools Needed
+### Tools
 - Hexagon tip **(size 5)**, plus tip **(size 00)**, minus tip **(size 3)** of screwdrivers
-- Butane jet lighter
 - Tweezers
 - Long nose pliers
 - Solder
-- Gear grease **(optional)**
+- Butane jet lighter
+- Lubricating grease **(optional)**
 
 ### Procedures
-1. Remove white cover using minus tip screwdriver starting from top
-2. Unscrew 2 inner screws and 7 outer screws using hexagon tip screwdriver **(length: 4 short, 4 medium, 1 long)**
-3. Extract motor together with chipset & detach white gear
-4. Remove black gear together with needle before unscrewing motor cover plate
-5. Transfer chipset to new motor using solder **(red wire -> + sign of motor)**
+1. Remove outer cover using minus tip screwdriver starting from top
+2. Remove 2 inner screws and 7 outer screws using hexagon tip screwdriver **(Screw length: 4 short, 4 medium, 1 long)**
+3. Extract motor together with chipset, make sure white gear remain intact
+4. Remove black gear together with tip before unscrewing motor plate
+5. Transfer chipset to new motor using solder **(red wire to positive terminal of motor)**
 6. Transfer pinion gear to new motor using pliers with butane jet lighter **(skip if motor comes with pinion gear)**
-7. Apply gear grease **(optional)** before putting everything back in 
+7. Apply lubricating grease **(optional)** before putting everything back in 
 
-### Images for References (Large Motor)
+### Images for References
 #### Step 1
 <img src="/images/img (6).png" width="400"><img src="/images/img (7).png" align="right" width="400"/>
-1. Insert minus tip into top of panel, assert downward force until both inner clamp is shown
-2. Insert minus tip into inclined part of side panel, reach into inner part & assert outward force  
+1. Insert screwdriver tip into top of panel, assert downward force until both inner clamp is shown
+2. Insert screwdriver tip into inclined part of side panel, reach into inner part & assert downward force  
 
 #### Step 2
 <img src="/images/img (8).png" width="400"><img src="/images/img (9).png" align="right" width="400"/>
@@ -39,13 +39,7 @@
 <img src="/images/img (1).png" width="400">
 
 #### Step 4
-<img src="/images/img (4).png" width="400"><img src="/images/img (3).png" align="right" width="400"/>
-
-#### Topdown view without white cover
-<img src="/images/img (2).png" width="400">
-
-#### Backview of motor
-<img src="/images/img (5).png" width="400">
+<img src="/images/img (4).png" width="400"><img src="/images/img (5).png" align="right" width="400">
 
 ---
 ## EV3 Medium Motor (Motor Replacement)
@@ -57,9 +51,9 @@
 3. Insert upward force to motor from attachment until back of motor is shown
 4. Insert downward force to remove motor from attachment
 5. Transfer pinion gear to new motor using pliers with butane jet lighter **(skip if motor comes with pinion gear)**
-6. Apply gear grease **(optional)**  before putting everything back in 
+6. Apply lubricating grease **(optional)**  before putting everything back in 
 
-### Images for References (Medium Motor)
+### Images for References
 #### Step 1
 <img src="/images/img (10).png" width="400">
 
@@ -70,7 +64,5 @@
 <img src="/images/img (13).png" width="400"><img src="/images/img (14).png" align="right" width="400"/>
 
 ---
-### Disclaimer
+## Disclaimer
 Content above are non-official & all from my DIY experiences. 
-
-### Dm me for repairs :smile:
