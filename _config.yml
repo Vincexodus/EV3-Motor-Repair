@@ -1,3 +1,23 @@
-theme: jekyll-theme-minimal
-title: EV3 Motor Repair Guide
-description: Repair Guide for EV3 Lego Mindstorm Large & medium motor   
+author: "Vincent Chin"
+email: "vincent4552@gmail.com"
+
+theme: minima
+
+github_username: Vincexodus
+
+minima:
+  date_format: "%Y-%m-%d"
+
+header_pages:
+  - _pages/frontpage.md
+
+include:
+  - _pages
+
+exclude: 
+  - .gitignore
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
