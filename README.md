@@ -4,10 +4,10 @@
 <img src="/images/large_motor.png" width="400">
 
 ### Motor For Replacement
-| Model | Description | Remarks |
-| ----------- | ----------- | ----------- |
-| [Compatible-model](https://item.taobao.com/item.htm?spm=a230r.1.14.43.5ec24ea25UNsbx&id=671232522423&ns=1&abbucket=13#detail) | Same RPM | Come with pinion gear |
-| [RF-500TB-18280](https://item.taobao.com/item.htm?spm=a230r.1.14.16.306bf39cHLAevO&id=535392986859&ns=1&abbucket=13#detail) | Similar RPM, Cheaper| No pinion gear |
+| Model | RPM | Pinion Gear | Remarks |
+| ----------- | ----------- | ----------- | ----------- | 
+| [Compatible](https://item.taobao.com/item.htm?spm=a230r.1.14.43.5ec24ea25UNsbx&id=671232522423&ns=1&abbucket=13#detail) | Equivalent | Yes | As good as original | 
+| [RF-500TB-18280](https://item.taobao.com/item.htm?spm=a230r.1.14.16.306bf39cHLAevO&id=535392986859&ns=1&abbucket=13#detail) | Similar | No | Cheaper/Louder |
 
 ### Tools
 - Hexagon tip **(size 5)**, plus tip **(size 00)**, minus tip **(size 3)** of screwdrivers
