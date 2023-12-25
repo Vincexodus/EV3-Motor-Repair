@@ -15,7 +15,7 @@ Complete repair on EV3 Large and Medium Motor
 - Lubricating grease **(optional)**
 
 ## EV3 Large Motor (Motor Replacement)
-<img src="{{ site.base_url }}{% link /assets/repair-imgs/large_motor.png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/large_motor.png %}" width="400">
 
 ### Compatible Models
 
