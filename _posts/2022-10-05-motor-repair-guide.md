@@ -15,7 +15,7 @@ Complete repair on EV3 Large and Medium Motor
 - Lubricating grease **(optional)**
 
 ## EV3 Large Motor (Motor Replacement)
-<img src="./assets/imgs/large_motor.png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/large_motor.png" width="400">
 
 ### Compatible Models
 
@@ -36,29 +36,29 @@ Model | RPM | Pinion Gear Included | Description
 
 ### Images for References
 #### Step 1
-<img src="./assets/imgs/img(6).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(6).png" width="400">
 
-<img src="./assets/imgs/img(7).png" width="400"/>
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(7).png" width="400"/>
 
 1. Insert screwdriver tip into top of panel, assert downward force until both inner clamp is shown
 2. Insert screwdriver tip into inclined part of side panel, reach into inner part & assert downward force  
 
 #### Step 2
-<img src="./assets/imgs/img(8).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(8).png" width="400">
 
-<img src="./assets/imgs/img(9).png" width="400"/>
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(9).png" width="400"/>
 
 #### Step 3
-<img src="./assets/imgs/img(1).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(1).png" width="400">
 
 #### Step 4
-<img src="./assets/imgs/img(4).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(4).png" width="400">
 
-<img src="./assets/imgs/img(5).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(5).png" width="400">
 
 ---
 ## EV3 Medium Motor (Motor Replacement)
-<img src="./assets/imgs/medium_motor.png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/medium_motor.png" width="400">
 
 ### Procedures
 1. Insert minus tip screwdriver into one side of body by dislocating both square brackets before inserting to other side
@@ -70,14 +70,14 @@ Model | RPM | Pinion Gear Included | Description
 
 ### Images for References
 #### Step 1
-<img src="./assets/repair-imgs/img(10).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(10).png" width="400">
 
 #### Step 2
-<img src="./assets/repair-imgs/img(11).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(11).png" width="400">
 
-<img src="./assets/repair-imgs/img(12).png" width="400"/>
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(12).png" width="400"/>
 
 #### Step 3 & 4
-<img src="./assets/repair-imgs/img(13).png" width="400">
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(13).png" width="400">
 
-<img src="./assets/repair-imgs/img(14).png" width="400"/>
+<img src="{{ site.base_url }}{% link /assets/repair-imgs/img(14).png" width="400"/>
