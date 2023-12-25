@@ -1,6 +1,5 @@
-# Lego Mindstorm EV3 Repair Guide
-
-This repo hosts [**Lego Mindstorm EV3 Repair Guide**](https://vincexodus.github.io/EV3-Repair-Guide/) with [minima](https://github.com/jekyll/minima) theme using GitHub pages.
+# EV3 Guides
+This repo hosts [**EV3 Tools & Guides**](https://vincexodus.github.io/EV3-Tools-And-Guides/) with [minima](https://github.com/jekyll/minima) theme using GitHub pages.
 
 ## Disclaimer
-Content above are non-official & all from my DIY experiences.
+Included contents are non-official & all from my personal experiences.
