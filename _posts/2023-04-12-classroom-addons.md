@@ -4,13 +4,14 @@ date: 2023-04-12
 layout: post
 ---
 
-Attempt to Replicate blocks from EV3 Lab Software that are unavailable in EV3 Classroom
+Attempt to replicate blocks from EV3 Lab Software that are unavailable in EV3 Classroom
 
 ## Unavailable/Unsupported blocks
 <img src="{{ site.base_url }}{% link /assets/classroom-imgs/sensor(yellow).png %}" height="400">
 
 <img src="{{ site.base_url }}{% link /assets/classroom-imgs/advanced(blue).png %}" height="400">
 
+These blocks do not exist in lab software, can't replicate them either.
 
 ## Replicated blocks (results not completely identical)
 <img src="{{ site.base_url }}{% link /assets/classroom-imgs/classroom_draw.png %}" width="400">
@@ -47,5 +48,5 @@ Write block is used to draw shapes on screen, symbols like `.`, `a` produces wei
 
 <br>`Shape.lmsp` consist of replicated shape blocks mentioned above.
 <br>`Sketch.lmsp` enables sketching on screen by controlling brick buttons.
-<br>Download the program files [here](https://github.com/Vincexodus/EV3-Tools-and-Guides/tree/main/src)
+<br><br>Download the program files [here](https://github.com/Vincexodus/EV3-Tools-and-Guides/tree/main/src)
 

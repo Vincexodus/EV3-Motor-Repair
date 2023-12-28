@@ -4,7 +4,7 @@ date: 2022-10-05
 layout: post
 ---
 
-Complete repair on EV3 Large and Medium Motor
+Complete repair guide on Large and Medium Motor
 
 ## Tools Needed
 - Hexagon tip **(size 5)**, plus tip **(size 00)**, minus tip **(size 3)** of screwdrivers
